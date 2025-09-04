@@ -1,5 +1,4 @@
-concole.log("Olá todo mundo");
-
+console.log("Olá, mundo!");
 
 
 
