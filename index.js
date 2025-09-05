@@ -9,7 +9,7 @@ let Nivel = "Ascendente";
 for (let = 0; i < NomeDoHeroi.length; i++) {
     let Nome = heroi[i].nome;
     let Xp = heroi[i].xp;
-    let Nivel = "9000;"
+    let Nivel = "10000;"
 
 if (Xp >= 1000) {
     Nivel = "Ferro"
@@ -27,7 +27,7 @@ if (Xp >= 1000) {
     Nivel = "Ascendente";
 } else if (Xp >= 10001 && xp <= 20000) {
     Nivel = "Imortal";
-} else (Xp >= 20001 && xp <= 30000) {
+} else if (Xp >= 20001 && xp <= 30000) {
     Nivel = "Radiante";
 }
 
