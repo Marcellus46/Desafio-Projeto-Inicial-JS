@@ -31,12 +31,3 @@ if (Xp >= 1000) {
     Nivel = "Radiante";
 }
 console.log("O heroi Gandalf está no nível de 10000 XP, portanto seu nível é Ascendente.");
-
-
-
-
-
-
-
-
-
