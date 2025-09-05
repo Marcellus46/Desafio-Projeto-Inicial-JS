@@ -5,12 +5,10 @@ console.log("Olá, mundo!");
 let NomeDoHeroi = "Gandalf";
 let Xp = "10000";
 let Nivel = "Ascendente";
-
-for (let = 0; i < NomeDoHeroi.length; i++) {
+for (let i = 0; i < NomeDoHeroi.length; i++) {
     let Nome = heroi[i].nome;
     let Xp = heroi[i].xp;
-    let Nivel = "Ascendente;"
-
+    let Nivel = "Ascendente;" }
 if (Xp >= 1000) {
     Nivel = "Ferro"
 } else if (Xp >= 1001 && Xp <= 2000) {
@@ -28,6 +26,5 @@ if (Xp >= 1000) {
 } else if (Xp >= 10001 && Xp <= 20000) {
     Nivel = "Imortal";
 } else if (Xp >= 20001 && Xp <= 30000) {
-    Nivel = "Radiante";
-}
+    Nivel = "Radiante"; }
 console.log("O heroi Gandalf está no nível de 10000 XP, por tanto seu nível é Ascendente");
