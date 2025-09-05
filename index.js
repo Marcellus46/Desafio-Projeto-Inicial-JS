@@ -9,11 +9,11 @@ for (let i = 0; i < NomeDoHeroi.length; i++) {
     let Xp = heroi[i].xp;
     let Nivel = "Ascendente;" }
 if (Xp >= 1000) {
-    Nivel = "Ferro"
+    Nivel = "Ferro" 
 } else if (Xp >= 1001 && Xp <= 2000) {
-    Nivel = "Bronze";
+    Nivel = "Bronze"; 
 } else if (Xp >= 2001 && Xp <= 4000) {
-    Nivel = "Prata";
+    Nivel = "Prata"; 
 } else if (Xp >= 4001 && Xp <= 6000) {
     Nivel = "Ouro";
 } else if (Xp >= 6001 && Xp <= 7000) {
