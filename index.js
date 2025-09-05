@@ -3,7 +3,7 @@ console.log("Olá, mundo!");
 // Classificador de Nível de Heroi.
 
 let NomeDoHeroi = "Gandalf";
-let Xp = "90000";
+let Xp = "100000";
 let Nivel = "Ascendente";
 for (let i = 0; i < NomeDoHeroi.length; i++) {
     let Nome = heroi[i].nome;
@@ -27,4 +27,4 @@ if (Xp >= 1000) {
     Nivel = "Imortal";
 } else if (Xp >= 10001 && Xp <= 20000) {
     Nivel = "Radiante"; }
-console.log("O heroi Gandalf está no nível 9000 de Xp, por tanto, seu nível é Ascendente");
+console.log("O heroi Gandalf está no nível 10000 de Xp, por tanto, seu nível é Ascendente");
