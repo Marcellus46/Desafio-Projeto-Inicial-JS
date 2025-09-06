@@ -26,5 +26,5 @@ if (Xp < 1000) {
 } else {
     Nivel = "Lendário";
 }
-console.log(`O herói ${NomeDoHeroi} está no nível ${Xp} de XP, portanto, seu nível é ${Nível}.`);
 console.log("O heroi Gandalf está no nível 10000 de XP, portanto, seu nível é Ascendente.");
+console.log(`O herói ${NomeDoHeroi} está no nível ${Xp} de XP, portanto, seu nível é ${Nível}.`);
