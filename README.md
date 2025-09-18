@@ -1,7 +1,8 @@
 # Documentação em Markdown
 
 # Classificador de Nível de Herói
-Este projeto contém um script em JavaScript que classifica o nível de um herói de acordo com sua experiência (XP).
+Este é o projeto nº 1 e contém um script em JavaScript que classifica o nível de um herói de acordo com sua experiência (XP).
+OBS: Todos os códigos JavaScript foram testados tanto no VS CODE quanto no Site https://www.w3schools.com/tryit/trycompiler.asp?filename=demo_nodejs
 
 ## Como funciona
 O código verifica o valor de XP do herói e atribui um nível conforme a tabela abaixo:
